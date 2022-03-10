@@ -1,0 +1,107 @@
+
+###
+GET http://localhost:8080/library/authors
+
+<> 2022-02-21T152315.200.txt
+<> 2022-02-21T152129.200.txt
+
+
+###
+GET http://localhost:8080/library/authors
+
+<> 2022-02-21T152315-1.200.txt
+<> 2022-02-21T152130.200.txt
+
+
+###
+GET http://localhost:8080/library/authors
+
+<> 2022-02-21T152315-2.200.txt
+<> 2022-02-21T152130-1.200.txt
+
+
+###
+GET http://localhost:8080/library/authors
+
+<> 2022-02-21T152316.200.txt
+<> 2022-02-21T152130-2.200.txt
+
+
+###
+GET http://localhost:8080/library/authors
+
+<> 2022-02-21T152316-1.200.txt
+<> 2022-02-21T152130-3.200.txt
+
+
+###
+GET http://localhost:8080/library/authors
+
+<> 2022-02-21T152315.200.txt
+<> 2022-02-21T152129.200.txt
+
+
+###
+GET http://localhost:8080/library/authors
+
+<> 2022-02-21T152315-1.200.txt
+<> 2022-02-21T152130.200.txt
+
+
+###
+GET http://localhost:8080/library/authors
+
+<> 2022-02-21T152315-2.200.txt
+<> 2022-02-21T152130-1.200.txt
+
+
+###
+GET http://localhost:8080/library/authors
+
+<> 2022-02-21T152316.200.txt
+<> 2022-02-21T152130-2.200.txt
+
+
+###
+GET http://localhost:8080/library/authors
+
+<> 2022-02-21T152316-1.200.txt
+<> 2022-02-21T152130-3.200.txt
+
+
+###
+GET http://localhost:8080/library/authors
+
+<> 2022-02-21T152315.200.txt
+<> 2022-02-21T152129.200.txt
+
+
+###
+GET http://localhost:8080/library/authors
+
+<> 2022-02-21T152315-1.200.txt
+<> 2022-02-21T152130.200.txt
+
+
+###
+GET http://localhost:8080/library/authors
+
+<> 2022-02-21T152315-2.200.txt
+<> 2022-02-21T152130-1.200.txt
+
+
+###
+GET http://localhost:8080/library/authors
+
+<> 2022-02-21T152316.200.txt
+<> 2022-02-21T152130-2.200.txt
+
+
+###
+GET http://localhost:8080/library/authors
+
+<> 2022-02-21T152316-1.200.txt
+<> 2022-02-21T152130-3.200.txt
+
+###
+GET http://localhost:8080/library/fail

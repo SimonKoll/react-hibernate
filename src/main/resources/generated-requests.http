@@ -1,0 +1,54 @@
+###
+POST http://localhost:8080/library/authors
+
+{
+"FirstName" : "John",
+"LastName": "Doe"
+}
+
+<> 2022-02-21T152314.200.json
+<> 2022-02-21T152128.200.json
+
+###
+POST http://localhost:8080/library/authors
+
+{
+"FirstName" : "Jane",
+"LastName": "Doe"
+}
+
+<> 2022-02-21T152314-1.200.json
+<> 2022-02-21T152128-1.200.json
+
+###
+POST http://localhost:8080/library/authors
+
+{
+"FirstName" : "Carl",
+"LastName": "Doe"
+}
+
+<> 2022-02-21T152314-2.200.json
+<> 2022-02-21T152129.200.json
+
+###
+POST http://localhost:8080/library/authors
+
+{
+"FirstName" : "Mary",
+"LastName": "Doe"
+}
+
+<> 2022-02-21T152314-3.200.json
+<> 2022-02-21T152129-1.200.json
+
+###
+POST http://localhost:8080/library/authors
+
+{
+"FirstName" : "Joe",
+"LastName": "Doe"
+}
+
+<> 2022-02-21T152315.200.json
+<> 2022-02-21T152129-2.200.json
